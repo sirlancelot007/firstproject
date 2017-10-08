@@ -23,20 +23,20 @@
 /image/templates/default.jpg
 
 # Download Files
-/upload/system/storage/download/*
-!/upload/system/storage/download/index.html
+/system/storage/download/*
+!/system/storage/download/index.html
 
 # Upload Files
-/upload/system/storage/upload/*
-!/upload/system/storage/upload/index.html
+/system/storage/upload/*
+!/system/storage/upload/index.html
 
 # Flags 
 # remove sharp char if you want to add flags to gitignore
 # /upload/flags/*
 
 # Log Files
-/upload/system/storage/logs/*
-!/upload/system/storage/logs/index.html
+/system/storage/logs/*
+!/system/storage/logs/index.html
 
 # If you want to ignore install file use following lines [on development mode]
 # /upload/backup.install/*
