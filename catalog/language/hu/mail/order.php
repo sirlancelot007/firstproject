@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - Megrendelés száma:  %s';
+$_['text_new_greeting']         = 'Köszönjük, hogy nálunk vásárolt! A rendelését megkaptuk és a feldolgozását azonnal elkezdtük.';
+$_['text_new_received']         = 'Új megrendelés érkezett.';
+$_['text_new_link']             = 'A rendelése megtekintéséhez kattintson az alábbi hivatkozásra:';
+$_['text_new_order_detail']     = 'Rendelési adatok';
+$_['text_new_instruction']      = 'Magyarázat';
+$_['text_new_order_id']         = 'Rendelés azonosító:';
+$_['text_new_date_added']       = 'Rendelés dátuma:';
+$_['text_new_order_status']     = 'Rendelés állapota:';
+$_['text_new_payment_method']   = 'Fizetési mód:';
+$_['text_new_shipping_method']  = 'Szállítási mód:';
+$_['text_new_email']  			= 'E-mail:';
+$_['text_new_telephone']  		= 'Telefonszám:';
+$_['text_new_ip']  				= 'IP cím:';
+$_['text_new_payment_address']  = 'Számlázási cím';
+$_['text_new_shipping_address'] = 'Szállítási cím';
+$_['text_new_products']         = 'Termékek';
+$_['text_new_product']          = 'Termék';
+$_['text_new_model']            = 'Cikkszám';
+$_['text_new_quantity']         = 'Mennyiség';
+$_['text_new_price']            = 'Fogyasztói ár';
+$_['text_new_order_total']      = 'Rendelés összege';
+$_['text_new_total']            = 'Összesen';
+$_['text_new_download']         = 'Amint a rendelés végösszege megérkezik, a lenti linkre kattintva elérheti a letölthető termékét:';
+$_['text_new_comment']          = 'Vásárláshoz fűződő megjegyzés:';
+$_['text_new_footer']           = 'Kérjük, ha bármilyen kérdése van a rendeléssel kapcsolatban, sziveskedjék erre az e-mail-re válaszolni.';
+$_['text_update_subject']       = '%s - rendelés módosítása %s';
+$_['text_update_order']         = 'Rendelés azonosító:';
+$_['text_update_date_added']    = 'Rendelés dátuma:';
+$_['text_update_order_status']  = 'A rendelése az alábbi állapotra változott:';
+$_['text_update_comment']       = 'Vásárláshoz fűződő megjegyzés:';
+$_['text_update_link']          = 'A rendelése megtekintéséhez kattintson az alábbi hivatkozásra:';
+$_['text_update_footer']        = 'Kérjük, ha bármilyen kérdése van a rendeléssel kapcsolatban, sziveskedjék erre az e-mail-re válaszolni.';
