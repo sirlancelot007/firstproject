@@ -6,8 +6,8 @@
 # Image File
 !/image/no_image.jpg
 
-# Image Cache Files
-/image/cache/*
+# Image Files
+/image/*
 !/image/cache/index.html
 
 # System Cache Files
